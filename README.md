@@ -1,4 +1,4 @@
-# Course Project: Webflow Site 1
+# Course Project: Webflow Site 2
 
 ## Description
 
